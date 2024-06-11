@@ -1,0 +1,8 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://ep-billowing-leaf-a5t1x6f0.us-east-2.aws.neon.tech/soundapp?user=soundapp_owner&password=J69zfUQGqXNt
+  - configuration:
+      name: auth_config
+      client_id: f15ef45aac44499684d19ba14e4e15f3
+      client_secret: e51e92242a98493ab63c7fcc06035f59
